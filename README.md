@@ -1,6 +1,9 @@
-## Hello Everyone, 
+## Hello Everyone 
 
-### I am Michelle Larassati
+### II am an UI/UX designer who still interest into code something beautiful.
 
-> I am an UI/UX designer who still interest into code something beautiful. 
-> Still learn into build and crate somehtings beautifully
+> You can call me Michelle,
+> I'm still in learning into build and crate something beautiful
+> In process to learning UI refactoring
+
+### Nice to meet you!
