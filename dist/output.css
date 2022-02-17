@@ -1,5 +1,7 @@
 /* This is Input.css */
 
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,700,900');
+
 /* ! tailwindcss v3.0.23 | MIT License | https://tailwindcss.com */
 
 /*
@@ -16,7 +18,7 @@
   /* 2 */
   border-style: solid;
   /* 2 */
-  border-color: #e5e7eb;
+  border-color: currentColor;
   /* 2 */
 }
 
@@ -42,7 +44,7 @@ html {
   -o-tab-size: 4;
      tab-size: 4;
   /* 3 */
-  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: Graphik, sans-serif;
   /* 4 */
 }
 
@@ -424,10 +426,10 @@ Ensure the default browser behavior of the `hidden` attribute.
 }
 
 html {
-  font-family: Poppins, system-ui, sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
-*, ::before, ::after {
+*, ::before, ::after{
   --tw-translate-x: 0;
   --tw-translate-y: 0;
   --tw-rotate: 0;
