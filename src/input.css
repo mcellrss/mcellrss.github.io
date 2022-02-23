@@ -1,9 +1,9 @@
 /* This is Input.css */
-@import url('https://fonts.googleapis.com/css?family=Poppins:400,700,900');
 
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,700,900');
 
 @layer base {
     html {

@@ -1,7 +1,5 @@
 /* This is Input.css */
 
-@import url('https://fonts.googleapis.com/css?family=Poppins:400,700,900');
-
 /* ! tailwindcss v3.0.23 | MIT License | https://tailwindcss.com */
 
 /*
@@ -429,7 +427,7 @@ html {
   font-family: 'Poppins', sans-serif;
 }
 
-*, ::before, ::after{
+*, ::before, ::after {
   --tw-translate-x: 0;
   --tw-translate-y: 0;
   --tw-rotate: 0;
@@ -473,3 +471,5 @@ html {
   --tw-backdrop-saturate:  ;
   --tw-backdrop-sepia:  ;
 }
+
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,700,900')
